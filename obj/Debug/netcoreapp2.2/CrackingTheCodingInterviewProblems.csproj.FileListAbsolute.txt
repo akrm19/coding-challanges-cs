@@ -1,0 +1,10 @@
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/bin/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.deps.json
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/bin/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.runtimeconfig.json
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/bin/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.runtimeconfig.dev.json
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/bin/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.dll
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/bin/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.pdb
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/obj/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.csprojAssemblyReference.cache
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/obj/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.AssemblyInfoInputs.cache
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/obj/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.AssemblyInfo.cs
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/obj/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.dll
+/Users/ron/Documents/MyDocs/Code/Console/CrackingTheCodingInterviewProblems/obj/Debug/netcoreapp2.2/CrackingTheCodingInterviewProblems.pdb

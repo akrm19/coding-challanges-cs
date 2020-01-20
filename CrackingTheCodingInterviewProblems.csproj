@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Problems.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="CodeWarsProblems\obj\CodeWarsProblems.csproj.nuget.cache" />
+    <None Remove="CodeWarsProblems\obj\CodeWarsProblems.csproj.nuget.g.props" />
+    <None Remove="CodeWarsProblems\obj\CodeWarsProblems.csproj.nuget.g.targets" />
+    <None Remove="CodeWarsProblems\obj\project.assets.json" />
+    <None Remove="CodeWarsProblems\obj\Debug\netcoreapp2.2\CodeWarsProblems.assets.cache" />
+    <None Remove="CodeWarsProblems\obj\Debug\netcoreapp2.2\CodeWarsProblems.csprojAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="HackerRank\" />
+    <Folder Include="LeetCode\" />
+    <Folder Include="SystemDesign\" />
+  </ItemGroup>
+</Project>
